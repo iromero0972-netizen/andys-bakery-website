@@ -720,7 +720,7 @@ h1, h2, h3, h4 {
 
 /* ═══ LOGO ═══ */
 .logo-img {
-    height: 100px;
+    height: 150px;
     width: auto;
     display: block;
 }
@@ -731,7 +731,7 @@ h1, h2, h3, h4 {
 
 @media (max-width: 768px) {
     .logo-img {
-        height: 70px;
+        height: 100px;
     }
 }
 
